@@ -1,0 +1,6 @@
+main - holds getting the user parameters, and calls other modules
+find_match_in_file - search for match between the input expression to a line, handle parantesses and special expressions.
+manage_input - manage the input switches, initial grep structure.
+activate_grep_structure- activating grep structure and handeling input file.
+handle_prints- handeling all necessary prints 
+regular_expression- handeling regular expressions and parentesses ("special expressions").creates regex structure which we use to search those expressions.
